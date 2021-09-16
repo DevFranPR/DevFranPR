@@ -1,7 +1,5 @@
 # Profile :page_facing_up:
 
-<br>
-
 ```js
 const profile = {
     name: "Fran",
@@ -17,8 +15,6 @@ const profile = {
 
 ## Languages :keyboard:
 
-<br>
-
 <!--Badges by https://github.com/Ileriayo/markdown-badges -->
 <p align="center">
 <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
@@ -30,8 +26,6 @@ const profile = {
 
 
 ## Technologies / skills :hammer_and_wrench:
-
-<br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -52,8 +46,6 @@ const profile = {
 
 ## Working :fire: 
 
-<br>
-
 Currently working on projects to show my skills in public repos. I'm shy, so maybe the projects will not be ready for a while, but in the long run they will start to pop up in my GitHub profile.
 
 <br>
@@ -66,15 +58,18 @@ Currently working on projects to show my skills in public repos. I'm shy, so may
 
 ## Learning :eyeglasses:
 
-<br>
-
 Now I'm interested in laying the groundwork with the languages that I already know. My main goal is to develop software: safe, stable and follow good practices and continuous delivery. I would like to improve in my craft enough to start practicing other languages, frameworks and technologies that call my attention.
 
-<figure>
-    <img src="img/learning.png" alt="learning" width="50%">
-    <figcaption><strong>POV: You caught me offgard studying</strong></figcaption>
-</figure>
 
+<p align="center">
+    <img src="img/learning.png" alt="learning" width="50%">
+</p>
+
+<p align="center"><strong>POV: You caught me offgard studying</strong></p>
+<br>
+
+
+<div align="center">
 
 | Field | Interest | 
 |:---:|:---:|
@@ -88,12 +83,12 @@ Now I'm interested in laying the groundwork with the languages that I already kn
 | Videogames | Godot Engine |
 | Other Languages | Python, C++, Go, Rust | 
 
+</div>
+
 
 <br>
 
 ## I'm looking for help with :raised_hand:
-
-<br>
 
 <p align="center">
     <img src="img/everything.gif" alt="everything" width="50%">
@@ -107,11 +102,7 @@ Now I'm interested in laying the groundwork with the languages that I already kn
 
 ## Contact me in :inbox_tray:
 
-<br>
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfranpr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-peteira-rodriguez/)
-
-<br>
 
 ---
