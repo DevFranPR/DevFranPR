@@ -1,5 +1,7 @@
 # Profile :page_facing_up:
 
+<br>
+
 ```js
 const profile = {
     name: "Fran",
@@ -14,7 +16,7 @@ const profile = {
 
 
 ## Languages :keyboard:
----
+
 <br>
 
 <!--Badges by https://github.com/Ileriayo/markdown-badges -->
@@ -28,7 +30,7 @@ const profile = {
 
 
 ## Technologies / skills :hammer_and_wrench:
----
+
 <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +51,8 @@ const profile = {
 
 
 ## Working :fire: 
----
+
+<br>
 
 Currently working on projects to show my skills in public repos. I'm shy, so maybe the projects will not be ready for a while, but in the long run they will start to pop up in my GitHub profile.
 
@@ -62,16 +65,16 @@ Currently working on projects to show my skills in public repos. I'm shy, so may
 <br>
 
 ## Learning :eyeglasses:
----
+
+<br>
 
 Now I'm interested in laying the groundwork with the languages that I already know. My main goal is to develop software: safe, stable and follow good practices and continuous delivery. I would like to improve in my craft enough to start practicing other languages, frameworks and technologies that call my attention.
 
-<figure align="center">
+<figure>
     <img src="img/learning.png" alt="learning" width="50%">
     <figcaption><strong>POV: You caught me offgard studying</strong></figcaption>
 </figure>
 
-<center>
 
 | Field | Interest | 
 |:---:|:---:|
@@ -85,12 +88,11 @@ Now I'm interested in laying the groundwork with the languages that I already kn
 | Videogames | Godot Engine |
 | Other Languages | Python, C++, Go, Rust | 
 
-</center>
 
 <br>
 
 ## I'm looking for help with :raised_hand:
----
+
 <br>
 
 <p align="center">
@@ -99,21 +101,17 @@ Now I'm interested in laying the groundwork with the languages that I already kn
 
 **I'm still a newbie, so all the help I could get in future repos are welcome. Always with respect and good manners pls** 👏.
 
----
+
 <br>
 
 
 ## Contact me in :inbox_tray:
----
+
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfranpr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-peteira-rodriguez/)
 
-</p>
-
 <br>
 
----
----
 ---
