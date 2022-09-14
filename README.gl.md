@@ -1,22 +1,22 @@
-# Profile :page_facing_up:
+# Perfil :page_facing_up:
 
 ```js
-const profile = {
-    name: "Fran",
-    years: 0b00011101,
+const perfil = {
+    nome: "Fran",
+    idade: 0b00011101,
     os: "Debian",
-    country: "Spain",
-    languages:["es_utf8","gl_utf8","en_utf8"],
-    timezone: "Europe/Madrid"
+    pais: "Spain",
+    linguaxes:["es_utf8","gl_utf8","en_utf8"],
+    zonaHoraria: "Europe/Madrid"
 }
 ```
 
-🌏 **English** ,
+🌏 [**English**](README.md),
 [**Spanish**](README.es.md),
-[**Galician**](README.gl.md)
+**Galician**
 
 
-## Languages :keyboard:
+## Lenguaxes :keyboard:
 
 <!--Badges by https://github.com/Ileriayo/markdown-badges -->
 <p align="center">
@@ -47,9 +47,10 @@ const profile = {
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+
 ## Working :fire: 
 
-Currently working on projects to show my skills in public repos and try new things. See more about it in the [formation](FORMATION.md) section.
+Actualmente atópome traballando con proxectos cos que mostar as miñas habilidades en repositorios públicos e probar cousas novas. Coñece máis o respecto na sección de [formación](FORMATION.gl.md).
 
 <br>
 
@@ -61,36 +62,36 @@ Currently working on projects to show my skills in public repos and try new thin
 
 ## Learning :eyeglasses:
 
-Now I'm interested in laying the groundwork with the languages that I already know. My main goal is to develop software: safe, stable, following good practices and continuous delivery. I would like to improve in my craft enough to start practicing other: languages, frameworks and technologies that call my attention.
+Agora estou interesado en asentar os cimentos cas linguaxes que xa coñezo. A miña meta principal e desenvolver software: seguro, estable, seguindo boas practicas e desenvolvemento continuo. Gustaríame mellorar no meu oficio o suficiente como para poder probar outras: linguaxes, frameworks e tecnoloxías que chamen a miña atención.
 
 
 <p align="center">
     <img src="img/learning.png" alt="learning" width="50%">
 </p>
 
-<p align="center"><strong>POV: You caught me offgard studying</strong></p>
+<p align="center"><strong>POV: Pilláchesme estudando</strong></p>
 <br>
 
 
 <div align="center">
 
-| Field | Interest | 
+| Campo | Interes | 
 |:---:|:---:|
 | Frontend | Angular, React |
 | Backend | Symfony, NextJS, Express |
-| Mobile | Kotlin, Flutter |
-| Databases | PostgreSQL, MongoDB |
+| Móbil | Kotlin, Flutter |
+| Bases de datos | PostgreSQL, MongoDB |
 | Testing | JUnit, Jester |
-| Version Control | GitHub Actions |
-| Server side | Monitoring, hardening & securing |
-| Videogames | Godot Engine |
-| Other languages | Rust, GO | 
+| Control de versións| GitHub Actions |
+| Servidores | Monitoring, hardening & securing |
+| Videoxogos | Godot Engine |
+| Outras linguaxes | Rust, GO | 
 
 </div>
 
 <br>
 
-## Contact me in :inbox_tray:
+## Contacta conmigo en :inbox_tray:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfranpr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-peteira-rodriguez/)
