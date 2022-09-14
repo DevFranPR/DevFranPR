@@ -1,7 +1,7 @@
 # Perfil :page_facing_up:
 
 ```js
-const Perfil = {
+const perfil = {
     nombre: "Fran",
     edad: 0b00011101,
     os: "Debian",
